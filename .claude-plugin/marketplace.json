@@ -22,8 +22,8 @@
     {
       "name": "brainstorming-software",
       "source": "./plugins/brainstorming-software",
-      "description": "Brainstorming editado (só software, sem servidor). Instalar no escopo de projeto.",
-      "version": "1.0.0"
+      "description": "Brainstorming editado (qualquer programação, sem servidor).",
+      "version": "1.1.0"
     }
   ]
 }

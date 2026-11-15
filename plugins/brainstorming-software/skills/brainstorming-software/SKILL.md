@@ -1,6 +1,6 @@
 ---
 name: brainstorming-software
-description: "Use antes de programar uma funcionalidade nova ou mudar o comportamento do software de análise de terrenos ou do CRM de terrenos, quando o pedido ainda deixa em aberto o que construir ou por quê. Entende o objetivo, mostra 2 ou 3 caminhos e aprova um documento curto antes do código; depois passa para o engenheiro-software-gno. Não use para ajustes pequenos e claros, nem para negócio, terrenos, permutas, fundos, apresentações, roadshow, contratos, atas ou documentos."
+description: "Use antes de programar uma funcionalidade nova ou mudar o comportamento de qualquer projeto de software (sites, sistemas, CRMs, automações, apps), quando o pedido ainda deixa em aberto o que construir ou por quê. Entende o objetivo, mostra 2 ou 3 caminhos e aprova um documento curto antes do código; depois passa para o engenheiro-software-gno. Não use para ajustes pequenos e claros, nem para negócio, terrenos, permutas, fundos, apresentações, roadshow, contratos, atas ou documentos."
 ---
 
 # Brainstorming

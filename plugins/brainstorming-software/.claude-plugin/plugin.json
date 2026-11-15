@@ -1,7 +1,9 @@
 {
   "name": "brainstorming-software",
-  "version": "1.0.0",
-  "description": "Brainstorming do Superpowers (obra/superpowers @22f0b46, MIT) editado: só texto, restrito a software, sem visual companion e entregando para o engenheiro-software-gno. Instalar no escopo de projeto.",
-  "author": { "name": "Jesse Vincent (obra/superpowers) — recorte editado pela Central de Curadoria" },
+  "version": "1.1.0",
+  "description": "Brainstorming do Superpowers (obra/superpowers @22f0b46, MIT) editado: só texto, restrito a software, sem visual companion e entregando para o engenheiro-software-gno. Vale para qualquer projeto de programação.",
+  "author": {
+    "name": "Jesse Vincent (obra/superpowers) — recorte editado pela Central de Curadoria"
+  },
   "license": "MIT"
 }
