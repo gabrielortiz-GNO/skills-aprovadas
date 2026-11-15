@@ -1,0 +1,7 @@
+{
+  "name": "n8n-conhecimento",
+  "version": "1.0.0",
+  "description": "5 skills do n8n-skills (czlonkowski/n8n-skills @e037563) em modo conhecimento: expressões, tratamento de erros, agentes de IA, padrões de workflow e configuração de nós. Sem hooks, sem roteador e sem servidor MCP.",
+  "author": { "name": "Romuald Członkowski (czlonkowski/n8n-skills) — recorte pela Central de Curadoria" },
+  "license": "MIT"
+}
