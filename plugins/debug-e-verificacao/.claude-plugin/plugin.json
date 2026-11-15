@@ -1,0 +1,9 @@
+{
+  "name": "debug-e-verificacao",
+  "version": "1.0.0",
+  "description": "Duas skills do Superpowers (obra/superpowers @22f0b46, MIT) aprovadas pela Central de Curadoria: depuração pela causa raiz e verificação com evidência antes de dizer 'pronto'. Sem hooks.",
+  "license": "MIT",
+  "author": {
+    "name": "Jesse Vincent (obra/superpowers) — recorte pela Central de Curadoria"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "skills-aprovadas-gabriel",
+  "owner": { "name": "gabrielortiz-GNO" },
+  "metadata": {
+    "description": "Skills aprovadas pela Central de Curadoria. Só entra aqui o que passou pelo processo e teve o PR aprovado."
+  },
+  "plugins": [
+    {
+      "name": "debug-e-verificacao",
+      "source": "./plugins/debug-e-verificacao",
+      "description": "systematic-debugging + verification-before-completion (recorte do Superpowers, sem hooks).",
+      "version": "1.0.0"
+    }
+  ]
+}
