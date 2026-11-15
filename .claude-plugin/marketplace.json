@@ -18,6 +18,12 @@
       "source": "./plugins/n8n-conhecimento",
       "description": "5 sub-skills do n8n-skills em modo conhecimento (sem hooks, sem MCP).",
       "version": "1.0.0"
+    },
+    {
+      "name": "brainstorming-software",
+      "source": "./plugins/brainstorming-software",
+      "description": "Brainstorming editado (só software, sem servidor). Instalar no escopo de projeto.",
+      "version": "1.0.0"
     }
   ]
 }
